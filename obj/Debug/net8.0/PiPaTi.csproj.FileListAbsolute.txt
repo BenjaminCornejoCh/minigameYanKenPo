@@ -1,0 +1,14 @@
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\bin\Debug\net8.0\PiPaTi.exe
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\bin\Debug\net8.0\PiPaTi.deps.json
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\bin\Debug\net8.0\PiPaTi.runtimeconfig.json
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\bin\Debug\net8.0\PiPaTi.dll
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\bin\Debug\net8.0\PiPaTi.pdb
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.AssemblyInfoInputs.cache
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.AssemblyInfo.cs
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.dll
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\refint\PiPaTi.dll
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.pdb
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\PiPaTi.genruntimeconfig.cache
+C:\Users\benjamin.cornejo.c\source\repos\PiPaTi\PiPaTi\obj\Debug\net8.0\ref\PiPaTi.dll
